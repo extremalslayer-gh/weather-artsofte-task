@@ -63,3 +63,9 @@ button:hover {
 #result.error {
     color: red;
 }
+
+#map {
+    width: 75%;
+    height: 400px;
+  }
+  
